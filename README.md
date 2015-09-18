@@ -12,6 +12,10 @@ Pages 2 - 5: These represent different section of the app, you can fill them wit
 You can browse an acceptable submission via the following link :
  https://appetize.io/app/wbqetj8mbthrj8z0uh1gfyt3ec
 
+Handy docs:
 
+http://www.raywenderlich.com/50308/storyboards-tutorial-in-ios-7-part-1
+
+https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Anatomy.html#//apple_ref/doc/uid/TP40006556-CH24-SW1
 
 ##### UC Berkeley, Civil Systems Department
