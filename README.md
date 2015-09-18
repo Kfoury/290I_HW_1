@@ -1,6 +1,6 @@
 
 #Intro
-This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code from HW_1. An easy way to start the assuagement would be to fork this repo. 
+This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code from HW_1. An easy way to start the homework would be to fork this repo. 
 
 
 In this assignment you will be implementing your own web server utilizing the Python webserver library “Flask” . You will be given a skeleton constructor code that implements typical POST API that accepts and returns predefined JSON outputs. The API specifications that you are asked to implement are tabulated below. More info about flask can be found here.
@@ -12,12 +12,12 @@ An activity view that indicates the existence of  a background asynchronous thre
 A “stocksBrain” NSObject subclass that implements the model of the API calling functions
 
 
-Sample acceptable submission is shown below, and can be accessed here via appetize.io.
+Sample acceptable submission is shown below, and can be accessed here via appetize.io:  https://appetize.io/app/pqd8kvznt2w1mrrzx1gnpvdag0?device=iphone6plus&scale=50&orientation=portrait.
 
 
-For both the the webserver and the iOS you will be provided a sample skeleton code that will help you start up your app. I would recommend starting your own project from scratch, with the help of the skeleton code, as opposed to starting with working on the skeleton project.
+For both the the webserver and the iOS, you will be provided a sample skeleton code that will help you start up your app. I would recommend starting your own project from scratch, with the help of the skeleton code, as opposed to starting with working on the skeleton project.
 
-https://appetize.io/app/pqd8kvznt2w1mrrzx1gnpvdag0?device=iphone6plus&scale=50&orientation=portrait
+
 
 
 #API Specs
